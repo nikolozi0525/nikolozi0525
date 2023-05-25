@@ -1,16 +1,14 @@
 ### Hi there 👋
+## PROFESSIONAL SUMMARY
 
-<!--
-**nikolozi0525/nikolozi0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+High-skilled C# and JavaScript developer bringing more than 6 years in software design, development and integration. I am well-versed in frontend and backend development using C#, .NET Core, ASP.NET Core, Blazor, MS SQL and  Azure.
 
-Here are some ideas to get you started:
+I have a great passion for JavaScript frameworks such as Angular, React.js, Vue.js, Next.js and Node.js along with TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top Skills
+
+- Microsoft C#, .NET Core, ASP.NET Core, Blazor, MAUI, Azure Cloud Computing
+- React, Next.js Vue.js Angular, Svelte, JavaScript, TypeScript
+- MS SQL Server, PosgtreSQL, MySQL, MongoDB
+- Git, Jira, TFS SVN
+
